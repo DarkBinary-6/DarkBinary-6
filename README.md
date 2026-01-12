@@ -5,7 +5,7 @@ const profile = {
   name: "DarkBinary",
   bio: "Full-Stack web developer focused on building high-performance, visually striking web experience",
   currentWork: "Working on an open-source project ",
-  interests: "UI/UX designs",
+  interests: "UI/UX designs", "Full-stack web development"
   skills: [
     "React",
     "Next.js",
