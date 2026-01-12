@@ -21,11 +21,11 @@ const profile = {
 
 ## 🔭 I'm currently working on
 
-Working on an open-source project 
+Working on an private project 
 
 ## 👀 I'm interested in
 
-UI/UX designs
+UI/UX designs, Full-stack web development
 
 ## 🏆 GitHub Trophies
 
@@ -78,6 +78,8 @@ const socials = {
   github: "DarkBinary-6",
   website: "enchanted-developers.vercel.app",
   instagram: "enchanteddevelopers",
+  telegram: "t.me/EnchnatedDevelopers",
+  whatsapp: "https://wa.me/9278378772",
 }
 ```
 
