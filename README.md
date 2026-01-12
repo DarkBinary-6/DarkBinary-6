@@ -79,12 +79,11 @@ const socials = {
   website: "enchanted-developers.vercel.app",
   instagram: "enchanteddevelopers",
   telegram: "t.me/EnchnatedDevelopers",
-  whatsapp: "https://wa.me/9278378772",
 }
 ```
 
 <div>
-<a href="https://github.com/DarkBinary-6"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="enchanted-developers.vercel.app"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://www.instagram.com/enchanteddevelopers"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="https://github.com/DarkBinary-6"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="enchanted-developers.vercel.app"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://www.instagram.com/enchanteddevelopers"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a herf="t.m/EnchantedDevelopers"><img scr="https://img.shields.io/badge/telegram-%23000000.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
 ## 📫 How to reach me
